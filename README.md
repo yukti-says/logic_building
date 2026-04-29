@@ -1,7 +1,6 @@
 # 🧠 Master Your Logic Building — Before DSA
 
-> A complete, structured problem set to sharpen your programming logic before diving into Data Structures & Algorithms.  
-> **240+ problems** across 6 phases, from basic conditionals to mixed applied reasoning.
+> A complete, structured problem set to sharpen your programming logic before diving into Data Structures & Algorithms.
 
 ---
 
@@ -9,42 +8,67 @@
 
 This repo contains my solutions to the **"Master Your Logic Building"** problem sheet — a curated set of questions designed to build strong foundational thinking before starting DSA.
 
-Each solution is written in **[Your Language — e.g., Java / C++ / Python]**, with clean code, comments explaining the approach, and test cases where relevant.
+Each solution is written in **Java**, with clean code, comments explaining the approach, and test cases where relevant.
 
 ---
 
 ## 🗂️ Phases Overview
 
-| Phase | Topic | Questions | Status |
-|-------|-------|-----------|--------|
-| [Phase 1](#phase-1--conditional-thinking) | Conditional Thinking (If–Else, Boolean Logic) | 50 | 🔄 In Progress |
-| [Phase 2](#phase-2--looping--patterns) | Looping & Patterns (Iteration & Flow) | 40–50 | ⏳ Upcoming |
-| [Phase 3](#phase-3--recursion) | Recursion (Thinking in Self-Reference) | 30–40 | ⏳ Upcoming |
-| [Phase 4](#phase-4--basic-arrays) | Basic Arrays (Iterative Logical Thinking) | 30–40 | ⏳ Upcoming |
-| [Phase 5](#phase-5--strings) | Strings (Basic Logic Building) | 50 | ⏳ Upcoming |
-| [Phase 6](#phase-6--mixed-logical-challenges) | Mixed Logical Challenges (Applied Reasoning) | 30–40 | ⏳ Upcoming |
+| Phase | Topic | Status |
+|-------|-------|--------|
+| [Phase 1](#phase-1--conditional-thinking) | Conditional Thinking (If–Else, Boolean Logic) | 🔄 In Progress |
+| [Phase 2](#phase-2--looping--patterns) | Looping & Patterns (Iteration & Flow) | ⏳ Upcoming |
+| [Phase 3](#phase-3--recursion) | Recursion (Thinking in Self-Reference) | ⏳ Upcoming |
+| [Phase 4](#phase-4--basic-arrays) | Basic Arrays (Iterative Logical Thinking) | ⏳ Upcoming |
+| [Phase 5](#phase-5--strings) | Strings (Basic Logic Building) | ⏳ Upcoming |
+| [Phase 6](#phase-6--mixed-logical-challenges) | Mixed Logical Challenges (Applied Reasoning) | ⏳ Upcoming |
 
 ---
 
 ## 📁 Folder Structure
 
 ```
-logic-building/
+files/
 ├── Phase1_Conditionals/
 │   ├── Level1_SimpleConditions/
-│   │   ├── Q01_PositiveNegativeZero.java
-│   │   ├── Q02_EvenOdd.java
-│   │   └── ...
+│   │   └── Q01_PositiveNegativeZero.java
 │   ├── Level2_NestedIf/
+│   │   └── Q01_ValidTriangle.java
 │   ├── Level3_MathNumberLogic/
+│   │   └── Q01_IfDigitsDistinct.java
 │   ├── Level4_LogicalOperators/
+│   │   └── Q01_IsLetterDigit.java
 │   └── Level5_Tricky/
+│       └── Q01_CheckPoints.java
 ├── Phase2_Loops/
+│   ├── Level1_BasicLooping/
+│   ├── Level2_NumberBasedLooping/
+│   ├── Level3_Mathematical_LogicalPatterns/
+│   ├── Level4_PatternPrintingStarsAndNumbers/
+│   └── LogicalLoopCombination/
 ├── Phase3_Recursion/
+│   ├── Level1_Foundation/
+│   ├── Level2_NumberBasedRecursiveThinking/
+│   ├── Level3_Pattern&PrintingProblems/
+│   └── Level4_StringBasedRecursion/
 ├── Phase4_Arrays/
+│   ├── Level1_Foundation/
+│   ├── Level2_Searching&CountingLogic/
+│   ├── Level3_Transformation&Manipulation/
+│   ├── Level4_Aggregate&ComparativeThinking/
+│   └── Level5_Logical&AppliedArrayProblems/
 ├── Phase5_Strings/
+│   ├── Level1_Basics/
+│   ├── Level2_Counting&CharacterAnalysis/
+│   ├── Level3_Reversing&PalindromicThinking/
+│   ├── Level4_Character&WordManipulation/
+│   └── Level5_WordLevelThinking/
 ├── Phase6_Mixed/
-├── question-sheet.pdf         ← Clean question sheet (no watermark)
+│   ├── Applied_Reasoning_RealLife/
+│   ├── Array_Looping_Logic/
+│   ├── Nested_logic/
+│   ├── Number_Based_Logical_Comnination/
+│   └── String_Logic/
 └── README.md
 ```
 
